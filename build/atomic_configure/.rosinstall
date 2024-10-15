@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gromanna/ROS/catkin_ws/devel/setup.sh
