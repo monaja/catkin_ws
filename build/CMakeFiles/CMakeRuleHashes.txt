@@ -1,2 +1,15 @@
 # Hashes of file build rules.
+09d42975ced85eb21d9f56faa4c51c2c /home/gromanna/ROS/catkin_ws/devel/include/basics/Complex.h
+f1e1139d1a4a7b261a2ccbe3e7f2886a /home/gromanna/ROS/catkin_ws/devel/lib/python3/dist-packages/basics/msg/_Complex.py
+647f52ee2b783fdb17f18f16e7f7d458 /home/gromanna/ROS/catkin_ws/devel/lib/python3/dist-packages/basics/msg/__init__.py
+4a19af9bbfa517011f6602ca809f3ffc /home/gromanna/ROS/catkin_ws/devel/share/common-lisp/ros/basics/msg/Complex.lisp
+4fbed920ceab4592d1f228ad820136d2 /home/gromanna/ROS/catkin_ws/devel/share/gennodejs/ros/basics/msg/Complex.js
+a827d2241b2effea59f48801e058d4e9 /home/gromanna/ROS/catkin_ws/devel/share/roseus/ros/basics/manifest.l
+3c3b2c84111e863eee43d95040f4b7a6 /home/gromanna/ROS/catkin_ws/devel/share/roseus/ros/basics/msg/Complex.l
 adfc9361d3432f5914b83489a5682d60 CMakeFiles/clean_test_results
+adeefd2510a9a9e31ee7b96c84d436bf basics/CMakeFiles/_basics_generate_messages_check_deps_Complex
+607aa7b40a810707257ae59b23dac1e2 basics/CMakeFiles/basics_generate_messages_cpp
+607aa7b40a810707257ae59b23dac1e2 basics/CMakeFiles/basics_generate_messages_eus
+607aa7b40a810707257ae59b23dac1e2 basics/CMakeFiles/basics_generate_messages_lisp
+607aa7b40a810707257ae59b23dac1e2 basics/CMakeFiles/basics_generate_messages_nodejs
+607aa7b40a810707257ae59b23dac1e2 basics/CMakeFiles/basics_generate_messages_py
