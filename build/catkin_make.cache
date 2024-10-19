@@ -1,2 +1,0 @@
-basics:my_awesome_code
--DCATKIN_DEVEL_PREFIX=/home/gromanna/ROS/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gromanna/ROS/catkin_ws/install -G Unix Makefiles
