@@ -6,7 +6,7 @@ from std_msgs.msg import Int32
 
 rospy.init_node('topic_publisher')
 
-pub = rospy.Publisher('counter', Int32)
+pub = rospy.Publisher('counter', Int32, queue_size=1000)
 
 rate = rospy.Rate(2)
 

@@ -8,7 +8,7 @@ from random import random
 
 rospy.init_node('message_publisher')
 
-pub = rospy.Publisher('complex', Complex)
+pub = rospy.Publisher('complex', Complex, queue_size=1000)
 
 rate = rospy.Rate(2)
 
