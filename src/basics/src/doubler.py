@@ -17,6 +17,6 @@ def callback(msg):
     pub.publish(doubled)
 
 sub = rospy.Subscriber('number', Int32, callback)
-pub = rospy.Publisher('doubled', Int32)
+pub = rospy.Publisher('doubled', Int32, queue_size=1000)
 
 rospy.spin()
