@@ -1,0 +1,5 @@
+duration time_to_wait
+---
+duration time_elapsed
+---
+duration time_remaining
